@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,city,country,capacity_units,cold_chain_available,current_utilization_percent
+WH001,Genoa Pharma Hub,Genoa,Italy,50000,TRUE,72
+WH002,Milan Pharma Hub,Milan,Italy,35000,TRUE,64
+WH003,Frankfurt Distribution Hub,Frankfurt,Germany,45000,TRUE,58
+WH004,Dubai Regional Hub,Dubai,UAE,30000,TRUE,61

@@ -1,0 +1,4 @@
+po_id,supplier_id,product_id,quantity_units,unit_price_usd,status,created_date,expected_delivery
+PO001,SUP001,P001,5000,118,CONFIRMED,2026-08-25,2026-09-02
+PO002,SUP005,P002,4000,94,CONFIRMED,2026-08-26,2026-09-04
+PO003,SUP007,P003,3000,48,CONFIRMED,2026-08-27,2026-09-05

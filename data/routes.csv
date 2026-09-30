@@ -1,0 +1,7 @@
+route_id,origin,destination,mode,carrier,transit_days,cost_usd,risk_score,capacity_units,status
+R001,Hamburg,Genoa,SEA,OceanBridge,6,18000,0.22,10000,AVAILABLE
+R002,Hamburg,Genoa,AIR,SkyCargo,1,52000,0.08,5000,AVAILABLE
+R003,Singapore,Genoa,AIR,AsiaAir,2,38000,0.14,8000,AVAILABLE
+R004,Frankfurt,Genoa,AIR,EuroAir,1,45000,0.10,6000,AVAILABLE
+R005,Dubai,Genoa,AIR,DesertAir,2,29000,0.19,4000,AVAILABLE
+R006,Hamburg,Genoa,SEA,BackupMarine,8,14000,0.35,12000,AVAILABLE

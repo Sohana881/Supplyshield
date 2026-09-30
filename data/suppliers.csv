@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,product_id,unit_price_usd,lead_time_days,reliability_score,risk_score,capacity_units,quality_score,status
+SUP001,EuroMed Components,Germany,P001,118,8,0.97,0.12,15000,0.99,ACTIVE
+SUP002,AsiaPharm Logistics,Singapore,P001,135,2,0.91,0.28,8000,0.98,ACTIVE
+SUP003,NorthStar Pharma,USA,P001,142,3,0.95,0.18,12000,0.99,ACTIVE
+SUP004,MedCore Industries,India,P001,105,15,0.82,0.45,20000,0.96,ACTIVE
+SUP005,EuroMed Components,Germany,P002,94,7,0.96,0.13,18000,0.99,ACTIVE
+SUP006,AsiaPharm Logistics,Singapore,P002,108,3,0.90,0.30,10000,0.97,ACTIVE
+SUP007,NorthStar Pharma,USA,P003,48,5,0.94,0.17,14000,0.98,ACTIVE
+SUP008,MedCore Industries,India,P003,39,10,0.84,0.42,22000,0.95,ACTIVE
+SUP009,Argo Emergency Supply,UAE,P005,205,2,0.88,0.31,5000,0.97,ACTIVE
+SUP010,GlobalBio Reserve,Netherlands,P001,155,1,0.98,0.08,4000,0.995,ACTIVE

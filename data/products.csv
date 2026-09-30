@@ -1,0 +1,6 @@
+product_id,sku,product_name,category,unit_cost_usd,criticality,temperature_min_c,temperature_max_c
+P001,MED-X100,Vaccine Component Alpha,Pharmaceutical,120,HIGH,2,8
+P002,MED-X200,Insulin Component Beta,Pharmaceutical,95,HIGH,2,8
+P003,MED-X300,Diagnostic Reagent Gamma,Pharmaceutical,45,MEDIUM,2,8
+P004,PKG-COLD-01,Cold Chain Packaging,Packaging,12,MEDIUM,2,8
+P005,MED-X400,Emergency API Component,Pharmaceutical,180,CRITICAL,2,8

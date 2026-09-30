@@ -1,0 +1,9 @@
+google-adk>=1.18.0
+google-generativeai
+python-dotenv
+pandas
+fastapi
+uvicorn
+pydantic
+scikit-learn
+google-cloud-firestore>=2.16.0
