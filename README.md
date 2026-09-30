@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SupplyShield — Real Multi-Agent SupplyChain Recovery 
 
 SupplyShield is an enterprise supply-chain disruption control center built around:
@@ -187,3 +188,6 @@ Security endpoints:
 - `POST /api/security/demo/supplier-export`
 
 The Security Center's **Run Malicious Supplier Demo** sends an untrusted supplier instruction through the real pre-execution guard. The export executor is not called when the request is blocked.
+=======
+# Supplyshield
+>>>>>>> d18343b937090f4778721f17f5e23e13998ae418
