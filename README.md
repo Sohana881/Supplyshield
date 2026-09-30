@@ -7,12 +7,20 @@
 <p align="center">
   <b>Team TWOPOINTERS</b>
   <br/>
-  Smart Health & Supply Chain Resilience
+  Smart Health &amp; Supply Chain Resilience
   <br/>
   Build with AI: Code for Communities — Second Edition
+  <br/><br/>
+  🌐 <b><a href="https://supplyshield-app.vercel.app/">Live Demo</a></b>
+  <br/>
+  <sub>Experience SupplyShield in action — from disruption detection to AI-driven, policy-validated recovery.</sub>
 </p>
 
 <p align="center">
+  <a href="https://supplyshield-app.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-SupplyShield-000000?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Google ADK](https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://google.github.io/adk-docs/)
