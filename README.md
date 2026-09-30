@@ -943,6 +943,13 @@ It is to create a **governed operational intelligence layer** that can sit betwe
 
 # 👥 Team TWOPOINTERS
 
+| Team Member | Role |
+|---|---|
+| **Tejaswee Rajput** | Team Lead |
+| **Rahul Sharma** | Team Member |
+| **Sohana Pilli** | Team Member |
+| **Shreya Dubey** | Team Member |
+
 ## SupplyShield
 
 **Track:** Smart Health & Supply Chain Resilience
